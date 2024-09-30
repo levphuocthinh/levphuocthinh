@@ -1,4 +1,10 @@
-<img src="https://img.shields.io/badge/こんにちは!-blue?style=for-the-badge" alt="Japanese Text" />
+<p align="center">
+  <img src="https://img.shields.io/badge/こんにちは!-blue?style=for-the-badge" alt="Japanese Text" />
+  <img src="https://img.shields.io/badge/私の名前はレ・ヴァン・フック・ティンです!-brightgreen?style=for-the-badge" alt="Name" />
+  <img src="https://img.shields.io/badge/(>_<)-yellow?style=for-the-badge" alt="Emoji" />
+  <img src="https://img.shields.io/badge/どぞよろしくお願いします.-orange?style=for-the-badge" alt="Thanks" />
+  <img src="https://img.shields.io/badge/🍀-green?style=for-the-badge" alt="Clover" />
+</p>
 
 
 <h3 align="center">I'm a software developer from Vietnam and can communicate in Japanese as well as English ^^</h3>
