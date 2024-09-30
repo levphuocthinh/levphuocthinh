@@ -7,7 +7,7 @@
 </p>
 
 
-<h3 align="center">I'm a software developer from Vietnam and can communicate in Japanese as well as English ^^</h3>
+<h3 align="center">I'm a software developer from Vietnam, and I can communicate in both Japanese and English ^^</h3>
 
 <br/>
 
