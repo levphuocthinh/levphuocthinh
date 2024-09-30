@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Noto+Sans+JP&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=こんにちは!+👋;+私の名前はレ・ヴァン・フック・ティンです!＋ (>_<); +どぞよろしくお願いします. + 🍀" />
+<img src="https://img.shields.io/badge/こんにちは!-blue?style=for-the-badge" alt="Japanese Text" />
 
 
 <h3 align="center">I'm a software developer from Vietnam and can communicate in Japanese as well as English ^^</h3>
