@@ -1,8 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Noto+Sans+JP&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=こんにちは!+👋;+私の名前はレ・ヴァン・フック・ティンです!＋ (>_<); +どぞよろしくお願いします. + 🍀" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=こんにちは!+👋;+私の名前はレ・ヴァン・フック・ティンです!＋ (>_<); +どぞよろしくお願いします. + 🍀" />
-</h1>
 
 <h3 align="center">I'm a software developer from Vietnam and can communicate in Japanese as well as English ^^</h3>
 
