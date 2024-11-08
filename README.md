@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I am currently a student at **Duy Tan University**
+ 🔭 I am currently a tudent at **Duy Tan University**
 
 🌱 I am currently studying **Flutter, Reactjs**
 
