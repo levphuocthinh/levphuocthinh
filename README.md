@@ -16,9 +16,6 @@ I'm a passionate developer who loves working with modern web technologies. Alway
 - **Presentation Data Extractor** - Automated data extraction using Selenium & Flask.
 - **JDict Clone** - A dictionary application similar to Mazzi & JDict (WIP).
 
-## 📫 Contact Me
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** your.email@example.com
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=levphuocthinh&show_icons=true&theme=radical)
