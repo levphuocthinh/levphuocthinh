@@ -15,9 +15,6 @@ I'm a passionate developer who loves working with modern web technologies. Alway
 - **PHP E-commerce**: An e-commerce project using PHP and Laravel. [GitHub Repository](https://github.com/levphuocthinh/php-ecomance)
 - **Calculator**: A simple calculator application. [GitHub Repository](https://github.com/levphuocthinh/Calculator)
 
-## 📫 Contact Me
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** your.email@example.com
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=levphuocthinh&show_icons=true&theme=radical)
