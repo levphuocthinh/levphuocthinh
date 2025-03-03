@@ -14,9 +14,8 @@ I'm a passionate developer who loves working with modern web technologies. Alway
 - **E-commerce Flutter App**: A Flutter-based e-commerce application. [GitHub Repository](https://github.com/levphuocthinh/e-commerce-flutter-app)
 - **PHP E-commerce**: An e-commerce project using PHP and Laravel. [GitHub Repository](https://github.com/levphuocthinh/php-ecomance)
 - **Calculator**: A simple calculator application. [GitHub Repository](https://github.com/levphuocthinh/Calculator)
-
   
-![Profile Views](https://komarev.com/ghpvc/?username=levphuocthinh&color=blue)
+![Metrics](https://github.com/levphuocthinh/levphuocthinh/blob/main/github-metrics.svg)
 
 
 ## 📊 GitHub Stats
